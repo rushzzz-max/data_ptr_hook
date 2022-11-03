@@ -1,0 +1,6 @@
+
+auto main( ) -> void
+{
+
+	
+}
